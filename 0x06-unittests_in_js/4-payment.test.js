@@ -3,7 +3,6 @@ const sinon = require("sinon");
 const sendPaymentRequestToApi = require("./4-payment");
 const Utils = require("./utils");
 const assert = require("assert");
-
 describe("sendPaymentRequestToApi", function() {
     it("check that Utils.calculateNumber is stubbed", function() {
 	const spy = sinon.spy(console, "log");

@@ -21,3 +21,4 @@ describe("sendPaymentRequestToApi", function() {
 	expect(console.log.withArgs("The total is: 20").calledOnce).to.be.true;
     });
 });
+

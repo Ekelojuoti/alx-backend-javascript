@@ -4,5 +4,4 @@ function calculateNumber(a, b) {
     const c = an + bn;
     return c;
 }
-
 module.exports = calculateNumber;

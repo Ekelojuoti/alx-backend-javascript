@@ -1,9 +1,8 @@
 const request = require("request");
 const {describe, it} = require("mocha");
 const expect = require("chai").expect;
-
 describe("Index page", function() {
-    const options = {
+	const options = {
 	url: "http://localhost:7865/",
 	method: "GET"
     }

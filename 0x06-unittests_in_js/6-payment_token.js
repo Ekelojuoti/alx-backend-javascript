@@ -5,5 +5,4 @@ function getPaymentTokenFromAPI(success) {
 	});
     }
 }
-
 module.exports = getPaymentTokenFromAPI;

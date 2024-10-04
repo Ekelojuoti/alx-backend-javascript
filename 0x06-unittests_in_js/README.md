@@ -1,1 +1,1 @@
-0x06. Unittests in JS
+solutions 0x06. Unittests in JS

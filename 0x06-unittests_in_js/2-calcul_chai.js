@@ -19,5 +19,4 @@ function calculateNumber(type, a, b) {
     }
     return c;
 }
-
 module.exports = calculateNumber;

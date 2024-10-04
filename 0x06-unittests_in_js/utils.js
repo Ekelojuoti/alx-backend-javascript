@@ -21,5 +21,4 @@ class Utils {
 	return c;
     }
 }
-
 module.exports = Utils;
